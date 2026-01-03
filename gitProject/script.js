@@ -1,2 +1,3 @@
-const a = 10;
+const a = 100;
 const b = 20;
+const myfunc();
